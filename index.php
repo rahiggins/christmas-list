@@ -212,52 +212,7 @@ dt {
     }
   }
 ?>
-      <!-- Start of category 
-      <div class="columns col-oneline bottomMargin">
-        <div class="column col-mr-auto p-relative">
-          <div class="text-center">
-            <span class="categoryTitle">Music</span>
-            <ul>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-            </ul>
-          </div>
-          <a class="atBottomLeft" href="#top" title="Click to go back to top of page" target="_top"><img src="tanne.gif" border="0" height="32" width="24"></a>
-        </div>
-        <div class="imgDiv pr-2">
-          <img src="chri_rk2.jpg" border="0" height="272" width="275">
-        </div>
-      </div>
-       -->
-      <!-- Start of category
-      <div class="columns col-oneline bottomMargin">
-        <div class="imgDiv pl-2">
-          <img src="chri_rk14.jpg" border="0" height="272" width="275">
-        </div>
-        <div class="column col-ml-auto p-relative">
-          <div class="text-center">
-            <span class="categoryTitle">Wine</span>
-            <ul>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-              <li>A</li>
-            </ul>
-          </div>
-          <a class="atBottomRight" href="#top" title="Click to go back to top of page" target="_top"><img src="tanne.gif" border="0" height="32" width="24"></a>
-        </div>
-      </div>
-       -->
+      <!-- Credits and contact information -->
       <div><hr></div>
       <div class="columns col-oneline" style="margin-bottom: 2em;">
         <div class="imgDiv">
