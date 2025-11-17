@@ -49,4 +49,4 @@ The list is stored in a MySQL database named rahiggins_xmas. It contains these t
 +--------+-------------+------+-----+---------+-------+
 ```
 
-index.php uses the database to produce the Christmas list page.
+[index.php](https://github.com/rahiggins/christmas-list/blob/main/index.php) uses the database to produce the Christmas list page.
