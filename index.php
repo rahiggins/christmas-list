@@ -222,7 +222,7 @@ dt {
           <a name="credits"></a>
           <span style="font-family: Times; font-size: 18px; line-height: normal;">
             I made an RYO CMS to generate this page.<br>
-            Check out the code<br>
+            Check out <a href="https://github.com/rahiggins/christmas-list">the code on GitHub</a>.<br>
               Illustrations by <a href="http://www.rudolfkoivu.fi/index.html" target="_blank">Rudolf
                 Koivu</a><br>
               <a name="email"></a>As always, coordinate with <a href="mailto:jorja.higgins@gmail.com?Subject=Andy%27s%20Christmas%20list">Mom</a>.<br>
