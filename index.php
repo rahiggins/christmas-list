@@ -5,6 +5,7 @@
     <meta http-equiv="Content-Style-Type" content="text/css">
     <title>Andy's Christmas List</title>
     <base target="_blank">
+    <link rel="icon" href="favicon.ico">
     <style type="text/css">
       #titleDiv {
         background-color: #27a53a;
