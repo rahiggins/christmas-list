@@ -120,7 +120,10 @@ dt {
     <div class="container">
       <a name="top"></a>
       <div id="titleDiv">
-        <span id="title">Andy's Christmas List 2025</span>
+<?php 
+        // Display current year in title
+        echo '<span id="title">Andy\'s Christmas List ', date('Y'), "</span>\n";
+?>
       </div>
       <header id="navBar" class="navbar">
         <section id="navSection" class="navbar-section" ">
